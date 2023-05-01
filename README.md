@@ -1,3 +1,6 @@
+<img width="70" style="border-radius:10px" src="icon.png">
+
+
 # WA
 Make your whatsapp patches
 
