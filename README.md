@@ -1,7 +1,7 @@
 <img width="120" style="border-radius:30px" src="/wa/Resources/icon.png">
 
 
-# WA
+# WhatsApp
 Make your whatsapp patches
 
 #### • Make your whatsapp anti contact closed, will you deliverd a contact closed?
