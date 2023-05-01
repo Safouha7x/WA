@@ -1,4 +1,4 @@
-<img width="120" style="border-radius:30px" src="/wa/Resources/icon.png">
+<img width="120" style="border-radius:30px" src="/wa/Resources/Logo.png">
 
 
 # WhatsApp
