@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+
+
+
+<dict>
+          <key>cell</key>
+          <string>PSGroupCell</string>
+          <key>footerText</key>
+          <string>Make your contact on whatsapp closed</string>
+          <key>label</key>
+          <string></string>
+          </dict>
+
+
+
+<dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+     <string>net.whatsapp.WhatsApp</string>
+       <key>icon</key>
+       <string>close.png</string>
+       <key>key</key>
+       <string>iphone</string>
+       <key>label</key>
+       <string>Close Contact</string>
+      </dict>
+
+
+
+<dict>
+          <key>cell</key>
+          <string>PSGroupCell</string>
+          <key>footerText</key>
+          <string>The message on whatsapp delivers Encrypted</string>
+          <key>label</key>
+          <string></string>
+          </dict>
+
+
+
+<dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+     <string>net.whatsapp.WhatsApp</string>
+       <key>icon</key>
+       <string>tshfir.png</string>
+       <key>key</key>
+       <string>kill</string>
+       <key>label</key>
+       <string>Encrypted Message</string>
+      </dict>
+
+
+
+<dict>
+          <key>cell</key>
+          <string>PSGroupCell</string>
+          <key>footerText</key>
+          <string>The message on whatsapp delivers Non-Message</string>
+          <key>label</key>
+          <string></string>
+          </dict>
+
+
+
+<dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+     <string>net.whatsapp.WhatsApp</string>
+       <key>icon</key>
+       <string>non.png</string>
+       <key>key</key>
+       <string>closed</string>
+       <key>label</key>
+       <string>Non-Message</string>
+      </dict>
+
+
+
+<dict>
+          <key>cell</key>
+          <string>PSGroupCell</string>
+          <key>footerText</key>
+          <string>The message on whatsapp delivers encrypted tick</string>
+          <key>label</key>
+          <string></string>
+          </dict>
+
+
+
+<dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+     <string>net.whatsapp.WhatsApp</string>
+       <key>icon</key>
+       <string>tashfir.png</string>
+       <key>key</key>
+       <string>tshfir</string>
+       <key>label</key>
+       <string>Encrypted Message Tick</string>
+      </dict>
+
+
+
+<dict>
+          <key>cell</key>
+          <string>PSGroupCell</string>
+          <key>footerText</key>
+          <string>When you get a long message it is shortened</string>
+          <key>label</key>
+          <string></string>
+          </dict>
+
+
+
+<dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+     <string>net.whatsapp.WhatsApp</string>
+       <key>icon</key>
+       <string>cute.png</string>
+       <key>key</key>
+       <string>txt</string>
+       <key>label</key>
+       <string>Cute Text</string>
+      </dict>
+
+
+
+<dict>
+          <key>cell</key>
+          <string>PSGroupCell</string>
+          <key>footerText</key>
+          <string>When you send a message, it is sent, but a layer is also in the banner of writing</string>
+          <key>label</key>
+          <string></string>
+          </dict>
+
+
+
+<dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+     <string>net.whatsapp.WhatsApp</string>
+       <key>icon</key>
+       <string>boom.png</string>
+       <key>key</key>
+       <string>text</string>
+       <key>label</key>
+       <string>Boom Text</string>
+      </dict>
+
+
+
+<dict>
+          <key>cell</key>
+          <string>PSGroupCell</string>
+          <key>footerText</key>
+          <string>When you send any message to someone who carries an iPhone WhatsApp stops</string>
+          <key>label</key>
+          <string></string>
+          </dict>
+
+
+
+<dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+     <string>net.whatsapp.WhatsApp</string>
+       <key>icon</key>
+       <string>kill.png</string>
+       <key>key</key>
+       <string>ios</string>
+       <key>label</key>
+       <string>Kill iPhone</string>
+      </dict>
+
+
+
+<dict>
+          <key>cell</key>
+          <string>PSGroupCell</string>
+          <key>footerText</key>
+          <string>When you activate the Patch I lock your location</string>
+          <key>label</key>
+          <string></string>
+          </dict>
+
+
+
+<dict>
+       <key>cell</key>
+       <string>PSSwitchCell</string>
+       <key>default</key>
+       <false/>
+       <key>defaults</key>
+       <string>net.whatsapp.WhatsApp</string>
+       <key>icon</key>
+       <string>local.png</string>
+       <key>key</key>
+       <string>loccal</string>
+       <key>label</key>
+       <string>Anti Location</string>
+      </dict>
+
+
+
+<dict>
+          <key>cell</key>
+          <string>PSGroupCell</string>
+          <key>footerText</key>
+          <string>Put any name and activate the patch and when you receive a message from someone it will It will reach you the name you put</string>
+          <key>label</key>
+          <string></string>
+          </dict>
+
+
+
+<dict>
+		 <key>cell</key>
+		 <string>PSSwitchCell</string>
+		 <key>default</key>
+		 <true/>
+		 <key>defaults</key>
+		 <string>net.whatsapp.WhatsApp</string>
+       <key>icon</key>
+       <string>iMessage.png</string>
+       <key>key</key>
+       <string>namee</string>
+       <key>label</key>
+       <string>Turn "ON"</string>
+      </dict>
+
+
+
+			<dict>
+				<key>cell</key>
+		<string>PSEditTextCell</string>
+				<key>placeholder</key>
+				<string>Message</string>
+				<key>defaults</key>
+          <string>net.whatsapp.WhatsApp</string>
+				<key>key</key>
+		 <string>namee</string>
+				<key>label</key>
+		 <string>Message Name:</string>
+				<key>label</key>
+	<string>Name Message</string>
+			</dict>
+
+
+
+<dict>
+          <key>cell</key>
+          <string>PSGroupCell</string>
+          <key>footerText</key>
+          <string></string>
+          <key>label</key>
+          <string></string>
+          </dict>
+
+
+
+<dict>
+   <key>action</key>
+   <string>you</string>
+   <key>cell</key>
+   <string>PSButtonCell</string>
+   <key>icon</key>
+   <string>YouTube.png</string>
+   <key>label</key>
+   <string>Youtube</string>
+  </dict>
+
+
+
+<dict>
+   <key>action</key>
+   <string>IG</string>
+   <key>cell</key>
+   <string>PSButtonCell</string>
+   <key>icon</key>
+   <string>Instagram.png</string>
+   <key>label</key>
+   <string>Instagram</string>
+  </dict>
+
+
+
+<dict>
+   <key>action</key>
+   <string>Telegram</string>
+   <key>cell</key>
+   <string>PSButtonCell</string>
+   <key>icon</key>
+   <string>Telegram.png</string>
+   <key>label</key>
+   <string>Telegram</string>
+  </dict>
+
+
+
+<dict>
+          <key>cell</key>
+          <string>PSGroupCell</string>
+          <key>footerText</key>
+          <string></string>
+          <key>label</key>
+          <string></string>
+          </dict>
+
+
+
+<dict>
+   <key>action</key>
+   <string>respring</string>
+   <key>cell</key>
+   <string>PSButtonCell</string>
+   <key>icon</key>
+   <string>respring.png</string>
+   <key>label</key>
+   <string>RespringBoard</string>
+  </dict>
+
+
+
+<dict>
+          <key>cell</key>
+          <string>PSGroupCell</string>
+          <key>footerText</key>
+          <string></string>
+          <key>label</key>
+          <string></string>
+          </dict>
+
+
+
+<dict>
+   <key>action</key>
+   <string>Wp</string>
+   <key>cell</key>
+   <string>PSButtonCell</string>
+   <key>icon</key>
+   <string>app.png</string>
+   <key>label</key>
+   <string>Download WhatsApp</string>
+  </dict>
+
+
+
+	</array>
+	<key>title</key>
+	<string>WA Patches : S7</string>
+</dict>
+</plist>
