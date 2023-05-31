@@ -5,9 +5,9 @@ Maintainer: Ali AL Boustani
 Depends:  firmware (>= 11.0), mobilesubstrate 	
 Conflicts: safouha.anticontact.a.c.b.deb
 Filename: debs/safouha.anticontact.a.c.w.deb
-Size: 11970	
-MD5sum: e2f9f3a6f4892939cd12b6931174a6a6	
-SHA1: 7a0367387dcf0b37c35ae062985f3497996aaefd	
-SHA256: 69cc9762f730413c3815f9765239145470b2212c0770349ea8cf3bfb5c083f61	
+Size: 10848996	
+MD5sum: 5ce124ee6ff17217264adad89a09fba1	
+SHA1: 8f17e3763930c5535563e1c399e0b2f54d4d3052	
+SHA256: a8b6af76c58350624d097e4b6490c7fc08768f80f351a944d54f64ae0e05302e	
 Section: WhatsApp Tweaks: Patches
 Depiction: WhatsApp Tweaks
