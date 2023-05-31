@@ -1,0 +1,13 @@
+Package: com.alialboustani.ccnowatermarksads
+Version: 2.0.0
+Architecture: iphoneos-arm
+Maintainer: Ali AL-Boustani	
+Depends:  firmware (>= 11.0), mobilesubstrate 	
+Conflicts: no things	
+Filename: debs/cc_no_watermarks_ads.deb
+Size: 11970	
+MD5sum: e2f9f3a6f4892939cd12b6931174a6a6	
+SHA1: 7a0367387dcf0b37c35ae062985f3497996aaefd	
+SHA256: 69cc9762f730413c3815f9765239145470b2212c0770349ea8cf3bfb5c083f61	
+Section: Tweaks	Section: Hack tweaks
+Depiction:
