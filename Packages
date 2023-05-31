@@ -1,5 +1,5 @@
-Package: com.alialboustani.ccnowatermarksads
-Version: 2.0.0
+Package: safouha.anticontact.a.c.w
+Version: 1.0.2
 Architecture: iphoneos-arm
 Maintainer: Ali AL-Boustani	
 Depends:  firmware (>= 11.0), mobilesubstrate 	
